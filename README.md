@@ -1,6 +1,7 @@
-<h3>👋 Hi there! 👋</h3>
+<h3>Hi there! 👋</h3>
+I'm Sanghoon Kim a Frontend Developer
 <hr>
-<h3 align=>💪 Skill</h3>
+<h3 align=>💪 Skills</h3>
 <p>
   <img alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css3" src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
